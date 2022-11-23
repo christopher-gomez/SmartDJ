@@ -41,7 +41,7 @@
     "request-promise-core": "^1.1.1",
     "request-promise-native": "^1.0.5",
     "serve-favicon": "^2.5.0",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.5.0",
     "spotify-web-api-node": "^4.0.0",
     "stealthy-require": "^1.1.1",
     "tough-cookie": "^2.5.0",
